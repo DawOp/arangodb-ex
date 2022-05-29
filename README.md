@@ -1,2 +1,2 @@
-# docker-compose-arangodb-uj
+# arangodb-uj
 docker-compose-arangodb-uj
